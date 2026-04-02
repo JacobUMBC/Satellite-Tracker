@@ -25,7 +25,7 @@ Satellite Tracker is a 3D visualization application built using Qt Quick 3D and 
 
 ## Screenshots
 
-![Satellite Tracker](earth.jpg)
+![Satellite Tracker](Satellite-Tracker.jpg)
 
 ---
 
